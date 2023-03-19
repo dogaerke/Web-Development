@@ -1,0 +1,51 @@
+form{
+    font-size: 20px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight:bold;
+    color: #245b79;
+    text-align: center;
+    border-radius: 10px;
+    width: 20%;
+    margin:auto; 
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.myButton {
+    color: rgb(186, 208, 223); 
+    font-size: 16px; 
+    line-height: 16px; 
+    padding: 10px; 
+    margin: 10px;
+    border-radius: 16px; 
+    font-family: "Arial Black", Gadget, sans-serif; 
+    font-weight: 400; 
+    text-decoration: none; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    background-image: linear-gradient(to right, rgb(34, 137, 41) 0%, rgb(72, 126, 203) 50%, rgb(10, 39, 58) 100%); 
+    box-shadow: rgb(0, 0, 0) 5px 4px 15px 3px; 
+    border: 2px solid rgb(28, 110, 164); 
+    display: inline-block;}
+    .myButton:hover {   background: #202220; }
+    .myButton:active {  background: #0A273A; }
+
+    .myButton2{
+        color: rgb(255, 255, 255); 
+        font-size: 22px; 
+        line-height: 22px; 
+        padding: 7px; 
+        border-radius: 21px; 
+        font-family: Georgia, serif; 
+        font-weight: normal; 
+        text-decoration: none; font-style: normal; 
+        font-variant: normal; text-transform: none; 
+        background-image: linear-gradient(to right, rgb(164, 57, 28) 0%, rgb(165, 133, 203) 50%, rgb(117, 39, 63) 100%); 
+        box-shadow: rgb(0, 0, 0) -3px 13px 42px 3px; 
+        border: 2px double rgba(105, 20, 20, 0.62); 
+        display: inline-block;}
+        .myButton:hover {   background: #A4391C; }
+        .myButton:active {   background: #75273F;
+
+    }
